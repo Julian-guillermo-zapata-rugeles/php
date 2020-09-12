@@ -22,7 +22,7 @@ Este es un loggin con autenticación en php
         <input  class="btn_login" type="submit" name="validar" value="Ingresar">
       </center>
       </form>
-      <center>
+    </center>
     </fieldset>
   </body>
 </html>
