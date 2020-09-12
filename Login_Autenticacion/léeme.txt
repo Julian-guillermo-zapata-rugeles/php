@@ -1,0 +1,3 @@
+Proyecto sencillo en php que permite mostrar los archivos del localhost 
+tiene un login rudimentario para impedir acceso directo al directorio
+
